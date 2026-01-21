@@ -95,8 +95,8 @@ export default function Home() {
         {/* Footer */}
         <div className="text-[#00aa00] text-center mt-8 font-mono text-sm">
           ═══════════════════════════════════════════════════════
-          <p className="mt-2">Built with Next.js • Powered by ASCII</p>
-          <p className="text-[#006600] mt-1">© 2024 Dad&apos;s Arcade</p>
+          <p className="mt-2">Built with Next.js • Powered by ASCII • v0.1.0</p>
+          <p className="text-[#006600] mt-1">© 2025 Dad&apos;s Arcade</p>
         </div>
       </main>
     </div>
